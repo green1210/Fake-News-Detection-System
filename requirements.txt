@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+tensorflow
+jupyterlab
+matplotlib
+seaborn
+nltk
+fastapi
+uvicorn[standard]
+python-multipart
+deep-translator
