@@ -30,11 +30,11 @@ The core of the system is an LSTM (Long Short-Term Memory) model trained on a we
 ---
 
 ## 📂 Project Structure
-```
 
+```
 fake-news-detector/
 │
-├── data/                    # Raw dataset (not included in repo)
+├── data/                    # Raw dataset 
 │   ├── Fake.csv
 │   └── True.csv
 │
