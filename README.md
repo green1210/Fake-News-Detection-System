@@ -30,6 +30,7 @@ The core of the system is an LSTM (Long Short-Term Memory) model trained on a we
 ---
 
 ## 📂 Project Structure
+```
 
 fake-news-detector/
 │
@@ -55,7 +56,7 @@ fake-news-detector/
 ├── requirements.txt         # Project dependencies
 ├── REPORT.md                # Project documentation and results
 └── README.md                
-
+```
 ---
 
 ## 🚀 Getting Started
